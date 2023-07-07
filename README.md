@@ -16,6 +16,7 @@ Els tres llenguatges que es treballen en aquest curs són HTML, CSS i JavaScript
 
 ### CSS
 
+- [Bootstrap](https://getbootstrap.com) – Framework CSS per crear pàgines web amb un disseny responsiu i un aspecte consistent.
 - [Charts.css](https://chartscss.org) – Permet crear gràfics de molts tipus (àrea, barres, línies...) únicament amb CSS.
 - [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns) – Col·lecció de patrons CSS per fer servir com a fons de pàgina o d'un contenidor.
 - [Gradients with `background-blend-mode`](https://bennettfeely.com/gradients) – Col·lecció de gradients CSS per fer servir com a fons de pàgina o d'un contenidor.
@@ -32,6 +33,7 @@ Els tres llenguatges que es treballen en aquest curs són HTML, CSS i JavaScript
 
 - **[React Documentation](https://react.dev) – Documentació oficial de React.**
 - [React Graph Gallery](https://www.react-graph-gallery.com) – Col·lecció de gràfics fets amb React i la llibreria [D3.js](https://d3js.org).
+- [React Native Documentation](https://reactnative.dev) – Documentació oficial de React Native.
 
 ### Altres
 
@@ -39,6 +41,9 @@ Els tres llenguatges que es treballen en aquest curs són HTML, CSS i JavaScript
 - [Carbon](https://carbon.now.sh) – Permet crear imatges a partir d'snippets de codi. Ideal per crear documentació.
 - [CodeImage](https://app.codeimage.dev) – Permet crear imatges a partir d'snippets de codi. Ideal per crear documentació.
 - [DevDocs](https://devdocs.io) – Documentació de moltes tecnologies de desenvolupament web (i altres) en un sol lloc.
+- [Frontend Mentor](https://www.frontendmentor.io) – Col·lecció de projectes frontend per practicar.
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) – Guia d'estil de codi HTML i CSS de Google.
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) – Guia d'estil de codi JavaScript de Google.
 - [PageSpeed Insights](https://pagespeed.web.dev) – Permet analitzar el rendiment d'una pàgina web i dona consells per millorar-lo.
 - [web.dev](https://web.dev) – Tutorials per aprendre a desenvolupar aplicacions web. Escrits per membres de l'equip de Google Chrome.
 
@@ -55,6 +60,7 @@ A banda d'escriure codi, les aplicacions web necessiten fonts, paletes de color 
 - [HeroIcons](https://heroicons.com) – Col·lecció d'icones en format SVG.
 - [HTML5 UP](https://html5up.net) – Col·lecció de plantilles HTML5 i CSS per fer servir com a base per crear pàgines web.
 - [KeyIcons](https://keyicons.com) – Petita col·lecció d'icones.
+- [Lorem Picsum](https://picsum.photos) – Col·lecció d'imatges aleatòries.
 - [Sovereign-state flags](https://commons.wikimedia.org/wiki/Sovereign-state_flags) – Banderes de tots els països del món en format SVG.
 - [SVG Patterns Gallery](https://philiprogers.com/svgpatterns) – Col·lecció de patrons SVG per fer servir com a fons de pàgina o d'un contenidor.
 - [SVG Repo](https://www.svgrepo.com) – Col·lecció d'icones en format SVG.
@@ -66,11 +72,9 @@ A banda d'escriure codi, les aplicacions web necessiten fonts, paletes de color 
 
 ## 👾 Treball amb API
 
-El treball amb API és una part molt important del desenvolupament web. A continuació hi ha una llista de recursos útils per practicar i aprendre aquesta vessant.
+El treball amb API és una part molt important del desenvolupament web. A continuació hi ha una llista de recursos útils per practicar i aprendre aquesta vessant. En primer lloc es mostren algunes API especialment interessants que es poden fer servir per programar el Projecte Final i, en general, aplicacions que formin part d'un bon portafoli per un programador junior. Després s'acompanyen altres recursos per aprendre a treballar amb API fent servir Fetch: tot i que tenim altres maneres d'accedir a les dades d'una API, com per exemple amb la llibreria [Axios](https://axios-http.com/docs/intro) o amb objectes [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest), la funció `fetch()` a dia d'avui és la manera més habitual de fer-ho.
 
 ### API públiques interessants
-
-Per Internet es poden trobar centenars d'API públiques disponibles que es poden fer servir per programar el Projecte Final i, en general, aplicacions que formin part d'un bon portafoli per un programador junior. En aquest apartat se'n mostren algunes especialment interessants.
 
 - [CIMA](https://sede.aemps.gob.es/docs/CIMA-REST-API_1_19.pdf) – _API de la Agencia Española de Medicamentos y Productos Sanitarios (AEMPS) que permite consultar información sobre medicamentos._
 - [Frankfurter](https://www.frankfurter.app) – _Frankfurter is an open-source API for current and historical foreign exchange rates published by the European Central Bank._
@@ -90,20 +94,10 @@ Per Internet es poden trobar centenars d'API públiques disponibles que es poden
 
 ### Eines per practicar Fetch
 
-Tot i que tenim diverses maneres d'accedir a les dades d'una API, com per exemple amb la llibreria [Axios](https://axios-http.com/docs/intro) o amb objectes [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest), la manera més habitual a dia d'avui és fer servir la funció `fetch()`. A continuació es mostren algunes eines que poden ser d'ajuda per practicar l'ús d'aquesta funció.
-
 - [httpstat.us](http://httpstat.us) – Servei que retorna una resposta HTTP amb el codi (200, 404, 500...) que li indiquem. És molt útil per veure com es comporta el nostre codi davant cada resposta.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com) – API que permet fer peticions GET, POST, PUT, PATCH i DELETE sobre diferents endpoints i anar veient els resultats. No té dades reals, sinó **fake data** però és molt útil per fer proves de petites parts de codi.
 
-### Creació d'una API
-
-La creació d'una API no forma part d'un curs de Frontend sinó que és matèria pròpia de Backend. Però igualment pot resultar útil tenir nocions sobre com es fa. A continuació segueixen algunes lectures que poden ser d'interès.
-
-- [What Is an API? How APIs Work (for Non-Developers)](https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers)
-- [How Web Apps Work](https://blog.isquaredsoftware.com/series/how-web-apps-work)
-- [How to design better APls](https://r.bluethl.net/how-to-design-better-apis) – Recomanacions generals sobre com dissenyar una API seguint bones pràctiques.
-
-## 🗞 Articles recomanats
+## 🗞 Lectures recomanades
 
 ### HTML
 
@@ -111,18 +105,40 @@ La creació d'una API no forma part d'un curs de Frontend sinó que és matèria
 
 ### CSS
 
+- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 - [CSS Grid and Flexbox—What Problems They Solve](https://www.telerik.com/blogs/grid-flexbox-what-problems-they-solve)
+- [CSS Ruleset Terminology](https://css-tricks.com/css-ruleset-terminology)
 - [Light and dark mode in just 14 lines of CSS](https://whitep4nth3r.com/blog/quick-light-dark-mode-css)
-- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms)
 - [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity)
+- [The CSS Box Model](https://css-tricks.com/the-css-box-model)
+- [Types of CSS: Inline, External and Internal Definitions and Differences Explained](https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css)
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms)
+
+### JavaScript
+
+- [JavaScript Callback Function –Explained in Plain English](https://www.freecodecamp.org/news/javascript-callback-function-plain-english)
+- [What are Higher-Order Functions in JavaScript?](https://dmitripavlutin.com/javascript-higher-order-functions)
 
 ### React
 
+- [10 Key Reasons Why You Should Use React for Web Development](https://www.techmagic.co/blog/why-we-use-react-js-in-the-development)
 - [Build Simple Timeline in React](https://aleksandarpopovic.com/Build-Simple-Timeline-in-React)
 - [Migrate to Vite from Create React App (CRA)](https://www.robinwieruch.de/vite-create-react-app)
 - [React useState Vs. Context API: When to Use Them](https://www.syncfusion.com/blogs/post/react-usestate-vs-context-api.aspx)
 - [Reason to Choose ReactJS for Your Next Project in 2022-2023 – Features, Benefits, and Tools](https://www.websoptimization.com/blog/reason-to-choose-reactjs-for-your-next-project)
+- [The benefits of ReactJS and reasons to choose it for your project](https://www.peerbits.com/blog/reasons-to-choose-reactjs-for-your-web-development-project.html)
+
+### API
+
+_La creació d'una API no forma part d'un curs de Frontend sinó que és matèria pròpia de Backend. Però igualment pot resultar útil tenir nocions sobre com es fa. A continuació segueixen algunes lectures que poden ser d'interès._
+
+- [What Is an API? How APIs Work (for Non-Developers)](https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers)
+- [How Web Apps Work](https://blog.isquaredsoftware.com/series/how-web-apps-work)
+- [How to design better APls](https://r.bluethl.net/how-to-design-better-apis)
 
 ### Altres
 
 - [Essential Git Commands](https://www.telerik.com/blogs/essential-git-commands)
+- [How To Escape Tutorial Hell](https://javascript.plainenglish.io/tutorial-hell-how-can-you-escape-it-8a6a7da3ae08)
+- [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program)
