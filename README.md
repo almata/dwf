@@ -19,7 +19,7 @@ Els tres llenguatges que es treballen en aquest curs són HTML, CSS i JavaScript
 - [Bootstrap](https://getbootstrap.com) – Framework CSS per crear pàgines web amb un disseny responsiu i un aspecte consistent.
 - [Charts.css](https://chartscss.org) – Permet crear gràfics de molts tipus (àrea, barres, línies...) únicament amb CSS.
 - [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns) – Col·lecció de patrons CSS per fer servir com a fons de pàgina o d'un contenidor.
-- [Gradients with `background-blend-mode`](https://bennettfeely.com/gradients) – Col·lecció de gradients CSS per fer servir com a fons de pàgina o d'un contenidor.
+- [Gradients with background-blend-mode](https://bennettfeely.com/gradients) – Col·lecció de gradients CSS per fer servir com a fons de pàgina o d'un contenidor.
 - [MVP.css](https://andybrewer.github.io/mvp) – Framework CSS minimalista per crear pàgines web senzilles i ràpides sense haver de posar classes CSS, només etiquetes HTML amb la semàntica adequada.
 - [Pico.css](https://picocss.com) – Framework CSS minimalista per crear pàgines web senzilles i ràpides sense haver de posar classes CSS, només etiquetes HTML amb la semàntica adequada.
 
@@ -99,6 +99,8 @@ El treball amb API és una part molt important del desenvolupament web. A contin
 
 ## 🗞 Lectures recomanades
 
+A més d'escriure codi i fer servir eines específiques, és molt important llegir sobre el nostre camp professional. A continuació hi ha una llista d'articles interessants per aprendre més sobre el desenvolupament web.
+
 ### HTML
 
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
@@ -131,11 +133,11 @@ El treball amb API és una part molt important del desenvolupament web. A contin
 
 ### API
 
-_La creació d'una API no forma part d'un curs de Frontend sinó que és matèria pròpia de Backend. Però igualment pot resultar útil tenir nocions sobre com es fa. A continuació segueixen algunes lectures que poden ser d'interès._
+_La creació d'una API no forma part d'un curs de Frontend sinó que és matèria pròpia de Backend. Però igualment pot resultar útil tenir nocions sobre com es fa._
 
-- [What Is an API? How APIs Work (for Non-Developers)](https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers)
-- [How Web Apps Work](https://blog.isquaredsoftware.com/series/how-web-apps-work)
 - [How to design better APls](https://r.bluethl.net/how-to-design-better-apis)
+- [How Web Apps Work](https://blog.isquaredsoftware.com/series/how-web-apps-work)
+- [What Is an API? How APIs Work (for Non-Developers)](https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers)
 
 ### Altres
 
