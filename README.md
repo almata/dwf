@@ -1,8 +1,8 @@
-# 🎯 Desenvolupament Web Frontend
+# Desenvolupament Web Frontend
 
 Aquest document inclou recursos útils per a la realització del curs Desenvolupament Web Frontend que s'imparteix al [CIFO L'Hospitalet](https://serveiocupacio.gencat.cat/ca/soc/com-ens-organitzem/centres-propis-formacio-cifo-cfpa/centres-dinnovacio-i-formacio-ocupacional-cifo/cifo-hospitalet-de-llobregat/index.html). En aquest curs, de 300 hores, es treballen HTML, CSS i JavaScript amb una certa profunditat, a més de fer una introducció a React i veure unes pinzellades de React Native.
 
-## ⚙️ Programació
+## 🛠 Programació
 
 Els tres llenguatges que es treballen en aquest curs són HTML, CSS i JavaScript. A continuació hi ha una llista de recursos útils relacionats amb aquestes tres tecnologies.
 
