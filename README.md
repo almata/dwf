@@ -28,11 +28,14 @@ Els tres llenguatges que es treballen en aquest curs són HTML, CSS i JavaScript
 - [1LOC](https://1loc.dev) – Llista de petites utilitats de JavaScript en una sola línia de codi.
 - [D3.js Graph Gallery](https://d3-graph-gallery.com) – Col·lecció de gràfics fets amb JavaScript i la llibreria [D3.js](https://d3js.org).
 - [Perflink | JS Benchmarks](https://perf.link) – Permet comparar el rendiment de diferents codis de JavaScript.
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) – Col·lecció d'algorismes i estructures de dades implementats en JavaScript.
+- [uuid](https://www.npmjs.com/package/uuid) – Llibreria per generar identificadors únics (UUID) en JavaScript.
 
 ### React
 
 - **[React Documentation](https://react.dev) – Documentació oficial de React.**
 - [React Graph Gallery](https://www.react-graph-gallery.com) – Col·lecció de gràfics fets amb React i la llibreria [D3.js](https://d3js.org).
+- [React Icons](https://www.npmjs.com/package/react-icons) – Llibreria amb moltíssimes icones en format SVG per fer servir amb React.
 - [React Native Documentation](https://reactnative.dev) – Documentació oficial de React Native.
 
 ### Altres
