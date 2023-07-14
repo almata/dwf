@@ -43,10 +43,13 @@ Els tres llenguatges que es treballen en aquest curs són HTML, CSS i JavaScript
 - [Can I use](https://caniuse.com) – Permet saber si una funcionalitat de CSS, HTML, JavaScript, etc. és compatible amb els diferents navegadors.
 - [Carbon](https://carbon.now.sh) – Permet crear imatges a partir d'snippets de codi. Ideal per crear documentació.
 - [CodeImage](https://app.codeimage.dev) – Permet crear imatges a partir d'snippets de codi. Ideal per crear documentació.
+- [CodePen](https://codepen.io) – Permet provar codi HTML, CSS i JavaScript en línia.
+- [CodeSandbox](https://codesandbox.io) – Permet provar codi HTML, CSS i JavaScript (incloent frameworks) en línia.
 - [DevDocs](https://devdocs.io) – Documentació de moltes tecnologies de desenvolupament web (i altres) en un sol lloc.
 - [Frontend Mentor](https://www.frontendmentor.io) – Col·lecció de projectes frontend per practicar.
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) – Guia d'estil de codi HTML i CSS de Google.
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) – Guia d'estil de codi JavaScript de Google.
+- [JSFiddle](https://jsfiddle.net) – Permet provar codi HTML, CSS i JavaScript en línia.
 - [PageSpeed Insights](https://pagespeed.web.dev) – Permet analitzar el rendiment d'una pàgina web i dona consells per millorar-lo.
 - [web.dev](https://web.dev) – Tutorials per aprendre a desenvolupar aplicacions web. Escrits per membres de l'equip de Google Chrome.
 
