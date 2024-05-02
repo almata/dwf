@@ -25,6 +25,7 @@ Els tres llenguatges que es treballen en aquest curs són HTML, CSS i JavaScript
 
 ### JavaScript
 
+- [The Modern JavaScript Tutorial](https://javascript.info) – Tutorial de JavaScript molt complet.
 - [1LOC](https://1loc.dev) – Llista de petites utilitats de JavaScript en una sola línia de codi.
 - [D3.js Graph Gallery](https://d3-graph-gallery.com) – Col·lecció de gràfics fets amb JavaScript i la llibreria [D3.js](https://d3js.org).
 - [Perflink | JS Benchmarks](https://perf.link) – Permet comparar el rendiment de diferents codis de JavaScript.
